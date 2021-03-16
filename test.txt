@@ -2,6 +2,15 @@ first commit
 
 
 ohohoh
-
+ohohohohohohohoh
+uhuhuhuhuhu
+hahahahahaha
 
 git git git hub
+listOflist();
+
+for (int i, i<4, i++){
+	i = 0;
+}
+
+cout << cout que cout << endl;
