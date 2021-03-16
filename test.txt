@@ -2,3 +2,13 @@ first commit
 
 
 ohohoh
+
+3rd commit
+
+listOflist();
+
+for (int i, i<4, i++){
+	i = 0;
+}
+
+cout << cout que cout << endl;
